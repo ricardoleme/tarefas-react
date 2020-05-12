@@ -1,0 +1,15 @@
+button,
+.button {
+	margin-bottom: 0 !important;
+	margin-right: .5rem;
+}
+
+.button-red{
+	background-color: brown;
+	border: none
+}
+
+.button-red:hover{
+	background-color: crimson;
+	border: none
+}
